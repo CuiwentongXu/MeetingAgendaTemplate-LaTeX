@@ -1,2 +1,2 @@
 # MeetingAgendaTemplate-LaTeX
-A meeting agenda with meeting memories template
+A meeting agenda and a meeting memories template
